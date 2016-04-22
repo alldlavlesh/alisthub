@@ -4,7 +4,7 @@ CREATED :6 April 2016
 CREATED BY: Deepak khokhar
 Montive: It defined routes to call different files.It will provide you directions where to go.
 ********************/
-'use strict'; 
+'use strict';
 angular.module("communicationModule", []);
 // Declare app level module which depends on filters, and services
 
